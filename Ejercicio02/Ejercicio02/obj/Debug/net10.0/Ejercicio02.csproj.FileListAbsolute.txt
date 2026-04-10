@@ -1,0 +1,14 @@
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.exe
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.deps.json
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.runtimeconfig.json
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.dll
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\bin\Debug\net10.0\Ejercicio02.pdb
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.AssemblyInfoInputs.cache
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.AssemblyInfo.cs
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.csproj.CoreCompileInputs.cache
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.dll
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\refint\Ejercicio02.dll
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.pdb
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\Ejercicio02.genruntimeconfig.cache
+E:\programacion Primer semestre\arreglos\Ejercicio02\Ejercicio02\obj\Debug\net10.0\ref\Ejercicio02.dll
