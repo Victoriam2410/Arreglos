@@ -1,0 +1,14 @@
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\bin\Debug\net10.0\Ejercicio05.exe
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\bin\Debug\net10.0\Ejercicio05.deps.json
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\bin\Debug\net10.0\Ejercicio05.runtimeconfig.json
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\bin\Debug\net10.0\Ejercicio05.dll
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\bin\Debug\net10.0\Ejercicio05.pdb
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.AssemblyInfoInputs.cache
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.AssemblyInfo.cs
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.csproj.CoreCompileInputs.cache
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.dll
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\refint\Ejercicio05.dll
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.pdb
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\Ejercicio05.genruntimeconfig.cache
+E:\programacion Primer semestre\arreglos\Ejercicio05\Ejercicio05\obj\Debug\net10.0\ref\Ejercicio05.dll
